@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Experienced full-stack developer with 1 years of experience in building web and mobile applications. Specialized in NextJS.
-
+DevOps Specialist with a strong passion for artificial intelligence and data science. I have extensive experience in developing web and mobile applications, with particular expertise in Next.js. Always on the lookout for innovative solutions to enhance system efficiency and explore emerging technologies, I thrive in dynamic environments where continuous improvement and technological advancement are key priorities. My background includes hands-on experience with cutting-edge tools and practices, making me adept at driving forward-thinking projects and delivering impactful results.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nF9DenrD) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jce-mopeno-bia) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mopenobiaclaude) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Morningstar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/claude-emmanuel-openo-bia) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/wind470) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JeanMopeno) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCQZOcYf7rQwp6MZckTSaK9A) 
